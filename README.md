@@ -1,5 +1,3 @@
-<size=200%>Welcome to the Cap+ mod!</size>
-This mod is held together with duct tape, hope, and the tears of orphans
-
-
--captain#3175
+<size=200%>Cap+ Mod v1.0.0</size>
+Welcome to the Cap+ mod!
+<size=50%>why the hell are you playing my shitty mod</size>
